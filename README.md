@@ -77,6 +77,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Love to play games!
 - [![github-alt][github-img]](https://github.com/akramkazmi71)
 
+### Arinna Black
+- Writer, Junior Developer
+- From Virginia, USA
+- [![github-alt][github-img]](https://github.com/ArinnaBee)
+
 ### Akshay N Shaju
 - Software Developer From India.🇧
 - Hobbies:
